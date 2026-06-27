@@ -3,20 +3,20 @@ Personal finance analytics dashboard built using real M-PESA transactional data.
 
 This project automates the extraction and analysis of M-PESA PDF statements using Python.
 
-#The system:
+# The system:
 - Unlocks password-protected PDFs
 - Extracts transaction tables
 - Cleans and preprocesses financial data
 - Categorizes transactions
 - Generates monthly summaries
 - Exports cleaned data to CSV
-#Technologies Used
+# Technologies Used
 - Python
 - Pandas
 - NumPy
 - pdfplumber
 - PyPDF
-#Key features
+# Key features
 ✔ PDF extraction
 ✔ Data cleaning
 ✔ Spending categorization
